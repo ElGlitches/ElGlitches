@@ -1,4 +1,4 @@
-[![ME](https://user-images.githubusercontent.com/60352486/141023261-0c723e4f-02e8-4088-b0d4-2e436d7a9b49.jpg)](https://www.linkedin.com/in/ivan-duran/)
+[![ME]()
 
 
 - 👋 Hi, I’m @ElGlitches
