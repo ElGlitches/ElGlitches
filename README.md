@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ivanduranluengo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/13pql5GwrpywBUG2guNsDOi_qN6ZBwgb6?usp=sharing](https://drive.google.com/file/d/1aCi3YgmLUkI_UFnga9Q_4-9ppEfTcEM-/view?usp=sharing)
+<!-- - 📄 Know about my experiences [https://drive.google.com/drive/folders/13pql5GwrpywBUG2guNsDOi_qN6ZBwgb6?usp=sharing](https://drive.google.com/file/d/1aCi3YgmLUkI_UFnga9Q_4-9ppEfTcEM-/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
