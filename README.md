@@ -1,57 +1,57 @@
-# Hola, soy Iván Durán 👋
+# Hola, soy Iván Durán 
 
-### **Cloud & SRE Engineer in Training | Financial Sector Specialist**
-Transformando la infraestructura técnica mediante la automatización, la cultura SRE y soluciones Cloud. Con más de 4 años de experiencia en el **Banco de Chile** y **Entel** , enfocado en la resiliencia y escalabilidad de sistemas financieros críticos.
-
----
-
-### 🚀 Mi Enfoque: El "Combo de Oro" 📈
-Creo firmemente en la potencia de combinar **Python** y **SQL** para resolver problemas complejos:
-- **Python:** Mi motor para la automatización de procesos, creación de herramientas personalizadas y scripting de infraestructura.
-- **SQL:** La herramienta clave para la observabilidad, auditoría de datos y análisis de métricas en entornos de alta criticidad.
+### **Senior Software Engineer | Cloud Architect | SRE in Training**
+Especialista en la construcción de sistemas de alta disponibilidad y resiliencia con más de 4 años de trayectoria en el **sector financiero (Banco de Chile)**. Mi enfoque integra prácticas de **Software Engineering** sólido con **Arquitectura Cloud** y **Cultura SRE**.
 
 ---
 
-### 📂 Proyectos Destacados
-
-#### [➔ Cloud-AI-Job-Engine](https://github.com/ElGlitches/Cloud-AI-Job-Engine)
-*Automatización inteligente para la búsqueda de talento técnico.*
-- **Core:** Python & Pandas.
-- **Logro:** Filtrado automático vacantes diarias bajo criterios específicos de Arquitectura y SRE.
-
----
-
-### 🛠️ Stack Tecnológico
-
-**Especialidad y Scripting:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Cloud & DevOps (Learning Path):**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+###  Architecture & Cloud Solutions
+Diseño de soluciones escalables y seguras en nubes líderes:
+- **AWS:** Expertise en Lambda, ECS, EC2, RDS, DynamoDB, S3, SNS y SES.
+- **GCP:** Implementación con BigQuery, Cloud Run, Cloud Functions y Vertex AI (MLOps).
+- **Patterns:** Microservicios, Diseño Orientado a Eventos (EDA), DDD y Clean Architecture.
 
 ---
 
-### 🎓 Formación y Trayectoria
-- 🏛️ **Ingeniería Informática** | Universidad Andrés Bello (En curso)
-- 🎓 **Analista Programador** | Titulado
-- 🏦 **Experiencia Bancaria:** 4 años en Banco de Chile gestionando continuidad operativa y soluciones técnicas.
-
-- ### 📜 Certificaciones & Aprendizaje Continuo
-- ☁️ **AWS Certified Solutions Architect – Associate** (En progreso)
-  - Especializándome mediante el programa de **Adrian Cantrill**, con enfoque en diseño de arquitecturas resilientes, seguras y de alta disponibilidad.
-  - *Fecha estimada de certificación: Q2 2026.*
-- 🏗️ **Infrastructure as Code:** Perfeccionando el uso de Terraform para el despliegue de recursos en AWS.
+###  Backend & Software Engineering
+Desarrollo con foco en mantenibilidad y rendimiento:
+- **Languages:** ![Python](https://img.shields.io/badge/Python-Senior-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Expert-003B57?style=flat-square&logo=sqlite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Node.js-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- **Frameworks:** FastAPI, Django, Express.js.
+- **Core:** Principios SOLID, Programación Orientada a Objetos, APIs RESTful y Bash Scripting.
 
 ---
 
-### 📫 Conectemos
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanduranluengo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanduranluengo@gmail.com)
+###  DevOps & Infrastructure (IaC)
+Automatización total del ciclo de vida del software:
+- **IaC:** ![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+- **Containers:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- **CI/CD:** Diseño de pipelines automatizados en entornos híbridos y prácticas **DevSecOps** (OWASP).
+
+---
+
+###  Data, AI & Observability
+Garantizando la salud del negocio y la continuidad operativa:
+- **Automation:** Orquestación avanzada con **n8n**, **Control-M** y flujos ETL (**DataStage**).
+- **AI & RAG:** Implementación de Agentes con LLMs e IBM Watson Assistant.
+- **Monitoring:** Observabilidad proactiva con **New Relic** y CloudWatch.
+
+---
+
+###  Proyecto Destacado: [Cloud-AI-Job-Engine](https://github.com/ElGlitches/Cloud-AI-Job-Engine)
+*Motor de búsqueda y clasificación de vacantes técnicas mediante IA y Web Scraping.*
+
+---
+
+###  Formación y Certificaciones
+-  **Ingeniería Civil Informática** | Universidad Andrés Bello (En curso)
+-  **Analista Programador** | Titulado
+-  **AWS Certified Solutions Architect Associate** | En preparación (Adrian Cantrill)
+
+---
+
+###  Conectemos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ivanduranluengo)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:ivanduranluengo@gmail.com)
 
 ---
 *“Automatizar para innovar, no solo para operar.”*
